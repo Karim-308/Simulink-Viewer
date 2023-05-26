@@ -8,7 +8,14 @@ The software tool will be useful for engineers, researchers, and students workin
 
 
 ## Features
+#### 1) File Choosing :
+	On running the program, a window appears with title "Simulink Viewer" , and requires a Simulink file to be loaded
 
+##### 2) Extracting details:
+	After choosing the file, the file begins to be read and after this sentence "_MWOPC_PART_BEGIN_ /simulink/systems/system_root.xml", it begins taking the details of the blocks and lines (the position, source and destination, number of ports, ...)
+
+#### 3) Drawing the model:
+	After taking the details of the blocks and lines, the model is drawn and shown.
 ## How to Use
 
 ##### To use the Seimulinlk Viewer, you have two ways:
