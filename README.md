@@ -51,18 +51,18 @@ This Team project is part of the requiremtents of "Advanced Computer Programming
 
 
 # Photos from a live Trial
-
+https://i.ibb.co/tcGyyD0/photo-2023-05-11-23-52-43.jpg
 <div align="center">
-    <a href="https://ibb.co/FJrGGzQ"><img src="https://i.ibb.co/tcGyyD0/photo-2023-05-11-23-52-43.jpg" alt="Photo 5" height="400"></a>
+    <a href="https://ibb.co/82jHQJN"><img src="" alt="Photo 5" height="400"></a>
     <br>
     <sup style="font-size: 24px;">This is the screen to choose your destination from</sup>
     <br>
     <br>
 </div>
 
-
+https://ibb.co/3B0hXmT
 <div align="center">
-    <a href="https://ibb.co/3B0hXmT"><img src="https://i.ibb.co/KF9yZx5/Screenshot-20230512-000221-Gallery.jpg" alt="Photo 2" height="400"></a>
+    <a href="https://ibb.co/3B0hXmT"><img src="https://ibb.co/3B0hXmT" alt="Photo 2" height="400"></a>
     <br>
     <sup style="font-size: 50px;">The walking distance on Google Maps is 150m</sup>
     <br>
