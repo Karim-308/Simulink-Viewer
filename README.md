@@ -27,15 +27,17 @@ After taking the details of the blocks and lines, the model is drawn and shown.
 
 Make sure you jave downloaded sdk for javaFx from this link https://gluonhq.com/products/javafx/
 
-The steps to run the this code is:
-<p>1- Download .zip file.	</p>
-<p>2- Open the folder using VScode </p>
-<p>3- Add Javafx Refrence libraries usually they are in this path "javafx-sdk-20\lib" </p>
-<p>4- Create launch.json file in .vscode folder  </p>
-<p>5- Add vm options like this (  "vmArgs": "--module-path <JavaFX_lib_path> --add-modules javafx.controls,javafx.fxml",  )   </p>
-<p>6- Run the code from main funtions </p>
-<p>7- You can find these steps on javafx in the documentation website through this link https://openjfx.io/openjfx-docs/#next-steps  </p>
-
+<p>1-The steps to run the this code is:
+<p>2-Download the .zip file containing the code. </p>
+<p>3-Extract the files to a local folder on your computer. </p>
+<p>4-Open Visual Studio Code (VsCode).</p>
+<p>5-Open the folder containing the extracted code using VsCode.</p>
+<p>6-Add the JavaFX reference libraries to the project. These libraries are usually located in the following path: "javafx-sdk-20\lib".</p>
+<p>7-Create a new file named "launch.json" in the ".vscode" folder of the project.</p>
+<p>8-Add the following VM options to the "launch.json" file: "vmArgs": "--module-path <JavaFX_lib_path> --add-modules javafx.controls,javafx.fxml"</p>
+<p>9-Replace <JavaFX_lib_path> with the path to your JavaFX libraries.</p>
+<p>10-Run the code from the main function.</p>
+<p>11-If you need further guidance on JavaFX, you can refer to the documentation website at https://openjfx.io/openjfx-docs/#next-steps.</p>
 
 
  
