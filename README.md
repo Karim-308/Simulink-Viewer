@@ -29,7 +29,7 @@ After taking the details of the blocks and lines, the model is drawn and shown.
 
 <div style="display: flex; align-items: center;">
   <img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" alt="JavaFx" title="JavaFx" width="70" height="70">
-  <h3 style="margin-left: 10px; color: #2596be;">JavaFx</h3>
+ 
 </div>
 
 ## Programming Languages 
