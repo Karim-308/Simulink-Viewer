@@ -53,7 +53,7 @@ This Team project is part of the requiremtents of "Advanced Computer Programming
 # Photos from a live Trial
 
 <div align="center">
-    <a href="https://ibb.co/82jHQJN"><img src="<img src="https://i.ibb.co/GkVqrXn/2023-05-26-18-12-57-Simulink-Viewer-java-Simulink-Viewer-Visual-Studio-Code.png" alt="Photo 5" height="400"></a>
+    <a href="https://ibb.co/82jHQJN"><img src="https://i.ibb.co/GkVqrXn/2023-05-26-18-12-57-Simulink-Viewer-java-Simulink-Viewer-Visual-Studio-Code.png" alt="Photo 5" height="400"></a>
     <br>
     <sup style="font-size: 24px;">This is the screen to choose your destination from</sup>
     <br>
