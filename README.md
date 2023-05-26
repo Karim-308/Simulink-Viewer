@@ -28,7 +28,7 @@ After taking the details of the blocks and lines, the model is drawn and shown.
 Make sure you jave downloaded sdk for javaFx from this link https://gluonhq.com/products/javafx/
 
 The steps to run the this code is:
-1- Download .zip file.	
+<p>1- Download .zip file.	</p>
 2- Open the folder using VScode
 3- Add Javafx Refrence libraries usually they are in this path "javafx-sdk-20\lib"
 4- Create launch.json file in .vscode folder
