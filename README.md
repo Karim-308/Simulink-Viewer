@@ -36,6 +36,13 @@ The steps to run the this code is:
 6- Run the code from main funtions
 7- You can find these steps on javafx in the documentation website through this link https://openjfx.io/openjfx-docs/#next-steps
 
+
+
+
+
+<ol> <li>Download the .zip file containing the code.</li> <li>Extract the files to a local folder on your computer.</li> <li>Open Visual Studio Code (VsCode).</li> <li>[Open](poe://www.poe.com/_api/key_phrase?phrase=Open&prompt=Tell%20me%20more%20about%20Open.) the folder containing the extracted code using [VsCode](poe://www.poe.com/_api/key_phrase?phrase=VsCode&prompt=Tell%20me%20more%20about%20VsCode.).</li> <li>Add the [JavaFX](poe://www.poe.com/_api/key_phrase?phrase=JavaFX&prompt=Tell%20me%20more%20about%20JavaFX.) [reference libraries](poe://www.poe.com/_api/key_phrase?phrase=reference%20libraries&prompt=Tell%20me%20more%20about%20reference%20libraries.) to the project. These libraries are usually located in the following path: "javafx-sdk-20\lib".</li> <li>Create a new file named "launch.json" in the ".vscode" folder of the project.</li> <li>Add the following [VM options](poe://www.poe.com/_api/key_phrase?phrase=VM%20options&prompt=Tell%20me%20more%20about%20VM%20options.) to the "launch.json" file: <code>"vmArgs": "--module-path &lt;JavaFX_lib_path&gt; --add-modules javafx.controls,javafx.fxml"</code>. Replace &lt;JavaFX_lib_path&gt; with the path to your [JavaFX libraries](poe://www.poe.com/_api/key_phrase?phrase=JavaFX%20libraries&prompt=Tell%20me%20more%20about%20JavaFX%20libraries.).</li> <li>Run the code from the main function.</li> <li>If you need further guidance on JavaFX, you can refer to the documentation website at <a href="https://openjfx.io/openjfx-docs/#next-steps">https://openjfx.io/openjfx-docs/#next-steps</a>.</li> </ol>
+
+
  
 ## Tools Used
 
