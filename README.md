@@ -55,14 +55,14 @@ This Team project is part of the requiremtents of "Advanced Computer Programming
 <div align="center">
     <a href="https://ibb.co/82jHQJN"><img src="https://i.ibb.co/GkVqrXn/2023-05-26-18-12-57-Simulink-Viewer-java-Simulink-Viewer-Visual-Studio-Code.png" alt="Photo 5" height="400"></a>
     <br>
-    <sup style="font-size: 24px;">This is the screen to choose your destination from</sup>
+    <sup style="font-size: 24px;">Click on browse to choose an mdl file</sup>
     <br>
     <br>
 </div>
 <div align="center">
     <a href="https://ibb.co/HxtCNvd"><img src="https://i.ibb.co/HxtCNvd/2023-05-26-18-13-24-Open.png" alt="2023-05-26-18-13-24-Open" height="400"></a>
     <br>
-    <sup style="font-size: 24px;">This is the first image</sup>
+    <sup style="font-size: 24px;">Choose the mdl</sup>
     <br>
     <br>
 </div>
@@ -71,7 +71,7 @@ This Team project is part of the requiremtents of "Advanced Computer Programming
 <div align="center">
     <a href="https://ibb.co/v1YPYfY"><img src="https://i.ibb.co/v1YPYfY/2023-05-26-18-13-46-Simulink-Viewer-java-Simulink-Viewer-Visual-Studio-Code.png" alt="2023-05-26-18-13-46-Simulink-Viewer-java-Simulink-Viewer-Visual-Studio-Code" height="400"></a>
     <br>
-    <sup style="font-size: 24px;">This is the second image</sup>
+    <sup style="font-size: 24px;">The choosen mdf file content</sup>
     <br>
     <br>
 </div>
