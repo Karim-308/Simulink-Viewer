@@ -533,8 +533,6 @@ public class SimulinkViewer extends Application {
         Text t;
 
 
-
-
         public void setRectangle() {
 
             this.r = new Rectangle(this.getPosition().getX(), this.getPosition().getY(), this.getPosition().getWidth(), this.getPosition().getHeight());
@@ -566,8 +564,6 @@ public class SimulinkViewer extends Application {
     }
     public void drawAllLines(List < SimulinkLine > lines, List < SimulinkBlock > blocks, Pane pane) {
         // loop through all lines
-
-
 
         for (SimulinkLine l: lines) {
             List < SimulinkPoint > intermedPointsList = l.getIntermrdiatepoints();
@@ -877,9 +873,5 @@ public class SimulinkViewer extends Application {
         public int getDstSID() {
             return dstSID;
         }
-
-
-
-
     }
 }
