@@ -29,12 +29,12 @@ Make sure you jave downloaded sdk for javaFx from this link https://gluonhq.com/
 
 The steps to run the this code is:
 <p>1- Download .zip file.	</p>
-2- Open the folder using VScode
-3- Add Javafx Refrence libraries usually they are in this path "javafx-sdk-20\lib"
-4- Create launch.json file in .vscode folder
-5- Add vm options like this (  "vmArgs": "--module-path <JavaFX_lib_path> --add-modules javafx.controls,javafx.fxml",  )  
-6- Run the code from main funtions
-7- You can find these steps on javafx in the documentation website through this link https://openjfx.io/openjfx-docs/#next-steps
+<p>2- Open the folder using VScode </p>
+<p>3- Add Javafx Refrence libraries usually they are in this path "javafx-sdk-20\lib" </p>
+<p>4- Create launch.json file in .vscode folder  </p>
+<p>5- Add vm options like this (  "vmArgs": "--module-path <JavaFX_lib_path> --add-modules javafx.controls,javafx.fxml",  )   </p>
+<p>6- Run the code from main funtions </p>
+<p>7- You can find these steps on javafx in the documentation website through this link https://openjfx.io/openjfx-docs/#next-steps  </p>
 
 
 
