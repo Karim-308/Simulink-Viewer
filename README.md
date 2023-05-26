@@ -59,30 +59,19 @@ This Team project is part of the requiremtents of "Advanced Computer Programming
     <br>
     <br>
 </div>
-
-https://ibb.co/3B0hXmT
 <div align="center">
-    <a href="https://ibb.co/3B0hXmT"><img src="https://ibb.co/3B0hXmT" alt="Photo 2" height="400"></a>
+    <a href="https://ibb.co/HxtCNvd"><img src="https://i.ibb.co/HxtCNvd/2023-05-26-18-13-24-Open.png" alt="2023-05-26-18-13-24-Open" height="400"></a>
     <br>
-    <sup style="font-size: 50px;">The walking distance on Google Maps is 150m</sup>
+    <sup style="font-size: 24px;">This is the first image</sup>
     <br>
     <br>
 </div>
 
+<!-- Second image -->
 <div align="center">
-   <a href="https://ibb.co/ZcjBdYx"><img src="https://i.ibb.co/zPMXs7Z/image.png" alt="Photo 4" height="400"></a>
+    <a href="https://ibb.co/v1YPYfY"><img src="https://i.ibb.co/v1YPYfY/2023-05-26-18-13-46-Simulink-Viewer-java-Simulink-Viewer-Visual-Studio-Code.png" alt="2023-05-26-18-13-46-Simulink-Viewer-java-Simulink-Viewer-Visual-Studio-Code" height="400"></a>
     <br>
-    <sup style="font-size: 24px;">The screen displaying the total distance moved when reaching the destination </sup>
+    <sup style="font-size: 24px;">This is the second image</sup>
     <br>
     <br>
 </div>
-
-
-<div align="center">
-    <a href="https://ibb.co/V9hPyTm"><img src="https://i.ibb.co/6wpfhFB/photo-2023-05-11-23-53-20.jpg" alt="Photo 3" height="400"></a>
-    <br>
-    <sup style="font-size: 24px;">The LED turns Green indicating that the destination is reached</sup>
-    <br>
-    <br>
-</div>
-
