@@ -32,9 +32,10 @@ After taking the details of the blocks and lines, the model is drawn and shown.
  
 </div>
 
+
 ## Programming Languages 
 
-<div style="display: flex; align-items: center;"> <img src="https://www.chetu.com/img/on-demand-developers/embedded-c/logo/embeded-c.png" alt="Embedded C" title="[Embedded C](poe://www.poe.com/_api/key_phrase?phrase=Embedded%20C&prompt=Tell%20me%20more%20about%20Embedded%20C.)" width="70" height="70"> <h3 style="margin-left: 10px; color: #00aef0;">Embedded C</h3> </div>
+<div style="display: flex; align-items: center;"> <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" alt="Java" title="Java" width="70" height="70"> <h3 style="margin-left: 10px; color: #00aef0;">Java</h3> </div>
 
 ## Credits
 
