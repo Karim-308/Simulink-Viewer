@@ -53,7 +53,7 @@ This Team project is part of the requiremtents of "Advanced Computer Programming
 # Photos from a live Trial
 https://i.ibb.co/tcGyyD0/photo-2023-05-11-23-52-43.jpg
 <div align="center">
-    <a href="https://ibb.co/82jHQJN"><img src="" alt="Photo 5" height="400"></a>
+    <a href="https://ibb.co/82jHQJN"><img src="https://ibb.co/82jHQJN" alt="Photo 5" height="400"></a>
     <br>
     <sup style="font-size: 24px;">This is the screen to choose your destination from</sup>
     <br>
