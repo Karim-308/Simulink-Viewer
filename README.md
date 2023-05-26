@@ -35,7 +35,7 @@ After taking the details of the blocks and lines, the model is drawn and shown.
 
 ## Programming Languages 
 
-<div style="display: flex; align-items: center;"> <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" alt="Java" title="Java" width="70" height="70"> <h3 style="margin-left: 10px; color: #00aef0;">Java</h3> </div>
+<div style="display: flex; align-items: center;"> <img src="https://static.vecteezy.com/system/resources/previews/022/100/686/original/java-logo-transparent-free-png.png" alt="Java" title="Java" width="70" height="70">  </div>
 
 ## Credits
 
