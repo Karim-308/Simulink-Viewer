@@ -20,7 +20,7 @@ After choosing the file, the file begins to be read and after this sentence "_MW
 After taking the details of the blocks and lines, the model is drawn and shown.
 ## How to Use
 
-##### To use the Seimulinlk Viewer, you have two ways:
+##### To use the Simulinlk Viewer, you have two ways:
 
 
 ##### Using VsCode:
